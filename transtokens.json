@@ -43,11 +43,11 @@
       "type": "fontWeights"
     },
     "border-radius-base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "border-radius-sm": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "primary-color": {
@@ -246,7 +246,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "group-item-margin-right": {
@@ -500,7 +500,7 @@
   },
   "collapse": {
     "panel-border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "header-padding-extra": {
@@ -820,7 +820,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     }
   },
@@ -928,7 +928,7 @@
       "type": "fontSizes"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "header-border-width": {
@@ -1196,7 +1196,7 @@
       "type": "color"
     },
     "border-radius-base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "footer-bg": {
@@ -1262,7 +1262,7 @@
   },
   "tag": {
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "default-bg": {
@@ -1498,7 +1498,7 @@
       "type": "color"
     },
     "radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "head-extra-color": {
@@ -1646,7 +1646,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "group-space": {
@@ -2508,7 +2508,7 @@
   },
   "control": {
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "padding-horizontal": {
@@ -2709,7 +2709,7 @@
   },
   "border-radius": {
     "base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "sm": {
