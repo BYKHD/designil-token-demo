@@ -15,10 +15,10 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
     - uses: actions/checkout@v3
-    - run: npm install
-    - run: npm run transform
+    - run: yarn install
+    - run: yarn transform
     - run: rm -rf build
-    - run: npm run stylebuild
+    - run: yarn stylebuild
 
     - name: Update changes in GitHub repository
       run:  |
