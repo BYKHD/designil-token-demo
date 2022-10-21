@@ -27,7 +27,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "craco eject",
-    "transform": "token-transformer tokens.json transtokens.json",
+    "transform": "token-transformer tokens.json transtokens.json 'default / colors','default / theme','default / components'",
     "stylebuild": "style-dictionary build"
   },
   "eslintConfig": {
