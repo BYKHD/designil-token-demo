@@ -1,0 +1,31 @@
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+    - 'config.json'
+    - 'tokens.json'
+    - '.github/**'
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v3
+    - run: npm install
+    - run: npm run transform
+    - run: rm -rf build
+    - run: npm run stylebuild
+
+    - name: Update changes in GitHub repository
+      run:  |
+        git config --global user.name 'BYKHD' 
+        git config --global user.email 'byakkohd@gmail.com'
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git add .
+        git commit -am "Automated build"
+        git push
