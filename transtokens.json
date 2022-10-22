@@ -43,11 +43,11 @@
       "type": "fontWeights"
     },
     "border-radius-base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "border-radius-sm": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "primary-color": {
@@ -127,7 +127,7 @@
       "type": "spacing"
     },
     "height-base": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "height-lg": {
@@ -143,7 +143,7 @@
       "type": "lineHeights"
     },
     "circle-size": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "circle-size-lg": {
@@ -155,7 +155,7 @@
       "type": "sizing"
     },
     "square-size": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "square-size-lg": {
@@ -246,7 +246,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "group-item-margin-right": {
@@ -500,7 +500,7 @@
   },
   "collapse": {
     "panel-border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "header-padding-extra": {
@@ -556,7 +556,7 @@
       "type": "fontSizes"
     },
     "item-label-height": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "item-label-colon-margin-right": {
@@ -574,7 +574,7 @@
   },
   "input": {
     "height-base": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "height-lg": {
@@ -710,7 +710,7 @@
       "type": "lineHeights"
     },
     "dropdown-height": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "background": {
@@ -734,7 +734,7 @@
       "type": "sizing"
     },
     "multiple-item-height-lg": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "multiple-disabled-background": {
@@ -820,7 +820,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     }
   },
@@ -928,7 +928,7 @@
       "type": "fontSizes"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "header-border-width": {
@@ -1196,7 +1196,7 @@
       "type": "color"
     },
     "border-radius-base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "footer-bg": {
@@ -1262,7 +1262,7 @@
   },
   "tag": {
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "default-bg": {
@@ -1498,7 +1498,7 @@
       "type": "color"
     },
     "radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "head-extra-color": {
@@ -1646,7 +1646,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "group-space": {
@@ -1698,7 +1698,7 @@
       "type": "color"
     },
     "item-size": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "item-size-sm": {
@@ -1918,7 +1918,7 @@
       "type": "sizing"
     },
     "item-height": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "disabled-bg": {
@@ -2190,7 +2190,7 @@
       "type": "fontSizes"
     },
     "title-line-height": {
-      "value": "32px",
+      "value": "48px",
       "type": "lineHeights"
     },
     "small-icon-size": {
@@ -2508,7 +2508,7 @@
   },
   "control": {
     "border-radius": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "padding-horizontal": {
@@ -2624,7 +2624,7 @@
   },
   "height": {
     "base": {
-      "value": "32px",
+      "value": "48px",
       "type": "sizing"
     },
     "lg": {
@@ -2709,7 +2709,7 @@
   },
   "border-radius": {
     "base": {
-      "value": "2px",
+      "value": "16px",
       "type": "borderRadius"
     },
     "sm": {
