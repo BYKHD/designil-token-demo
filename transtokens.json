@@ -43,11 +43,11 @@
       "type": "fontWeights"
     },
     "border-radius-base": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "border-radius-sm": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "primary-color": {
@@ -246,7 +246,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "group-item-margin-right": {
@@ -500,7 +500,7 @@
   },
   "collapse": {
     "panel-border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "header-padding-extra": {
@@ -820,7 +820,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     }
   },
@@ -928,7 +928,7 @@
       "type": "fontSizes"
     },
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "header-border-width": {
@@ -1196,7 +1196,7 @@
       "type": "color"
     },
     "border-radius-base": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "footer-bg": {
@@ -1262,7 +1262,7 @@
   },
   "tag": {
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "default-bg": {
@@ -1498,7 +1498,7 @@
       "type": "color"
     },
     "radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "head-extra-color": {
@@ -1646,7 +1646,7 @@
       "type": "color"
     },
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "group-space": {
@@ -1706,7 +1706,7 @@
       "type": "sizing"
     },
     "font-family": {
-      "value": "SF Pro Text",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "font-weight-active": {
@@ -2082,7 +2082,7 @@
       "type": "fontSizes"
     },
     "font-family": {
-      "value": "SF Pro Text",
+      "value": "Inter",
       "type": "fontFamilies"
     }
   },
@@ -2508,7 +2508,7 @@
   },
   "control": {
     "border-radius": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "padding-horizontal": {
@@ -2637,7 +2637,7 @@
     }
   },
   "font-family": {
-    "value": "SF Pro Text",
+    "value": "Inter",
     "type": "fontFamilies",
     "description": "use default"
   },
@@ -2709,7 +2709,7 @@
   },
   "border-radius": {
     "base": {
-      "value": "16px",
+      "value": "4px",
       "type": "borderRadius"
     },
     "sm": {
@@ -2922,7 +2922,7 @@
   "Text": {
     "Base - Regular": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "157.15%",
         "fontSize": "14px",
@@ -2935,7 +2935,7 @@
     },
     "Base - Regular Italic": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular Italic",
         "lineHeight": "157.15%",
         "fontSize": "14px",
@@ -2948,7 +2948,7 @@
     },
     "Base - Regular Delete": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "157.15%",
         "fontSize": "14px",
@@ -2961,7 +2961,7 @@
     },
     "Base - Regular Underlined": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "157.15%",
         "fontSize": "14px",
@@ -2974,7 +2974,7 @@
     },
     "Base - Semibold": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "157.15%",
         "fontSize": "14px",
@@ -2987,7 +2987,7 @@
     },
     "Small - Regular": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "157.15%",
         "fontSize": "12px",
@@ -3000,7 +3000,7 @@
     },
     "Small - Semibold": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "157.15%",
         "fontSize": "12px",
@@ -3013,7 +3013,7 @@
     },
     "Large - Regular": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Regular",
         "lineHeight": "157.15%",
         "fontSize": "16px",
@@ -3026,7 +3026,7 @@
     },
     "Large - Semibold": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "157.15%",
         "fontSize": "16px",
@@ -3050,7 +3050,7 @@
   "Title": {
     "H1": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "123%",
         "fontSize": "38px",
@@ -3063,7 +3063,7 @@
     },
     "H2": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "135%",
         "fontSize": "30px",
@@ -3076,7 +3076,7 @@
     },
     "H3": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "135%",
         "fontSize": "24px",
@@ -3089,7 +3089,7 @@
     },
     "H4": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "140%",
         "fontSize": "20.000000006px",
@@ -3102,7 +3102,7 @@
     },
     "H5": {
       "value": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "Inter",
         "fontWeight": "Semibold",
         "lineHeight": "150%",
         "fontSize": "16.000000002px",
